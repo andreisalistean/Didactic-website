@@ -1,0 +1,32 @@
+.divIntroducere{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hayaaa{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4rem;
+}
+
+.textIntroducere{
+    font-size: x-large;
+    padding: 10px;
+    padding-right: 50px;
+    color:beige;
+}
+
+.copchil{
+    width:15%;
+    height:fit-content;
+}
+
+.rachetutza{
+    width:15%;
+    height: fit-content;
+}
+
+.textSaIncepem{
+    color: rgb(148, 210, 255);
+}

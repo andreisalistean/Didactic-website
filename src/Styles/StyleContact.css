@@ -1,0 +1,16 @@
+.divContact{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.iconita{
+    width:4rem;
+    height:fit-content;
+}
